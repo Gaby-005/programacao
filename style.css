@@ -1,0 +1,16 @@
+body{
+     background-color:#928e8e;
+}
+img{
+    width: 100%;
+}
+h1,p {
+    text-align: center;
+}
+
+em{
+    color: rgb(184, 16, 16);
+}
+#missao{
+    font-size: 20px;
+}
