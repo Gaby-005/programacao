@@ -13,10 +13,30 @@ img{
 h1,p {
     text-align: center;
 }
-
 em{
     color: rgb(184, 16, 16);
 }
 #missao{
     font-size: 20px;
+}
+.itens{
+    font-style: italic;
+}
+.principal{
+    background-color: rgba(75, 77, 77, 0.541);
+    padding: 30px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.beneficios{
+    background-color: rgb(56, 56, 56);
+    padding: 20px;
+}
+.img-beneficios{
+    width: 50%;
+
 }
