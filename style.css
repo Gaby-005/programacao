@@ -109,4 +109,20 @@ form label, form p{
 .checkbox{
    margin: 20px 0;
 }
+.Enviar{
+   width: 40%;
+   padding: 15px 0;
+   background: rgb(126, 1, 1);
+   color: rgb(255, 255, 255);
+   font-weight: bold;
+   font-size: 18px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+   transition: 1s all;
+}
+.Enviar:hover{
+   background: rgb(185, 5, 5);
+   transform: scale(1.2);
+}
 
