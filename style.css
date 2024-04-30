@@ -125,4 +125,17 @@ form label, form p{
    background: rgb(185, 5, 5);
    transform: scale(1.2);
 }
+table{
+   margin: 20px 0 20px;
+}
 
+thead{
+   background-color: #555555;
+   color: rgb(240, 240, 240);
+   font-weight: bold;
+}
+
+td, tr{
+   border: 1px solid black;
+   padding: 8px 15px;
+}
